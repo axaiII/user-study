@@ -8,5 +8,5 @@
 - 若每份问卷的答题时间都超过8分钟，当总体准确率(6份问卷)高于50%时，每提高10%，将获得10元的额外奖励；
 - 此外，针对无效试卷，我们将酌情给予奖励。
 
-完成所有问卷的同学请加入下群，核实问卷情况后，将会发放奖励。
-<img src='https://github.com/axaiII/user-study/blob/main/%E7%BE%A4.jpg'>
+完成所有问卷的同学请加入下群，核实问卷情况后，将会发放奖励。<br>
+<img src='https://github.com/axaiII/user-study/blob/main/%E7%BE%A4.jpg' style='width: 300px; height: 400px;'>
