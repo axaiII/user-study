@@ -9,4 +9,4 @@
 - 此外，针对无效试卷，我们将酌情给予奖励。
 
 完成所有问卷的同学请加入下群，核实问卷情况后，将会发放奖励。<br>
-<img src='https://github.com/axaiII/user-study/blob/main/%E7%BE%A4.jpg' style='width: 300px; height: 400px;'>
+<img src='https://github.com/axaiII/user-study/blob/main/621.png' style='width: 300px; height: 400px;'>
